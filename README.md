@@ -38,8 +38,8 @@ http://localhost:5000
 - pandas
 
 ## Contacto
-
-Charlie 
+charlie 
+charliecascante2@gmail.com
 
 
 
